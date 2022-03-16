@@ -1,0 +1,441 @@
+@media (min-width: 1400px){
+    #banner {
+        padding-top: 181px;
+    }
+    .banner-left h1 {
+        font-size: 70px;
+    }
+    .banner-left h2 {
+        font-size: 60px;
+    }
+    .instacam-head-text h3 {
+        font-size: 45px;
+        padding-bottom: 17px;
+    }
+    .instacam-head-text p {
+        font-size: 17px;
+        line-height: 29px;
+        padding-bottom: 47px;
+    }
+    .instacam-item h5 {
+        padding-top: 19px;
+        padding-bottom: 12px;
+        font-size: 24px;
+    }
+    .instacam-item p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .about-content h3 {
+        padding-right: 473px;
+    }
+    .about-content p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .about-content span {
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){
+    .navbar-nav {
+        background-color:#13cccca2;
+        text-align: center;
+    }
+    .navbar-nav .nav-item:hover .nav-link::after {
+        width: 20%;
+        height: 2px;
+    }
+    .navbar-nav .nav-item .nav-link::after {
+        top: 0px;
+    }
+    .navbar-nav .nav-item:hover .nav-link::after {
+        width: 10%;
+    }
+    #banner {
+        padding-top: 136px;
+        padding-bottom: 46px;
+    }
+    .banner-left h1 {
+        font-size: 48px;
+    }
+    .banner-img {
+        margin-left: 100px;
+        margin-top: 120px;
+    }
+    .instacam-item-main.after::after {
+        left: 0%;
+    }
+    .instacam-item-main.after::before {
+        height: 0px;
+    }
+    #questions {
+        padding-top: 100px;
+        padding-bottom: 65px;
+    }
+    #instacam {
+        padding-top: 80px;
+        padding-bottom: 44px;
+    }
+    .about-content h3 {
+        padding-right: 61px;
+    }
+    .about-img {
+        margin-top: -284px;
+        margin-left: -130px;
+    }
+    #about {
+        padding-top: 21px;
+        padding-bottom: 28px;
+    }
+    .instacam-head-text p {
+        padding-bottom: 40px;
+    }
+    .video-play-button {
+        top: 100%;
+        left: 50%;
+    }
+    #product {
+        padding-top: 97px;
+    }
+    .product-head-text p {
+        color: #444444;
+        padding: 0px 141px;
+    }
+    .camera-main {
+        padding-bottom: 72px;
+        padding-top: 14px;
+    }
+    .camera-left-img {
+        margin-top: -38px;
+        margin-left: 38px;
+    }
+    .camera-head h4 {
+        font-size: 24px;
+    }
+    .camera-head p {
+        line-height: 19px;
+        padding-right: 0px;
+    }
+    .video-play-button {
+        top: 50%;
+        left: 100%;
+    }
+    .video-btn-text p {
+        padding-left: 65px;
+        margin-top: 121px;
+    }
+    .camera-left-img img {
+        height: 235px;
+        margin-left: 89px;
+    }
+    .testimonial-item-text p {
+        padding: 0 0px;
+        line-height: 18px;
+    }
+    #testimonial {
+        padding-top: 56px;
+        padding-bottom: 22px;
+    }
+    .follo h2 {
+        padding-top: 36px;
+    }
+    .fo-text p {
+        line-height: 18px;
+        margin-top: -5px;
+    }
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .navbar-nav {
+        background-color:#13cccca2;
+        text-align: center;
+    }
+    .navbar-nav .nav-item:hover .nav-link::after {
+        width: 20%;
+        height: 2px;
+    }
+    .navbar-nav .nav-item .nav-link::after {
+        top: 0px;
+    }
+    #banner {
+        padding-top: 110px;
+        padding-bottom: 110px;
+    }
+    .banner-left h2 {
+        font-size: 35px;
+    }
+    .banner-left-btn {
+        padding-top: 40px;
+    }
+    .banner-img {
+        margin-left: 160px;
+        margin-top: -106px;
+    }
+    #instacam {
+        padding-top: 100px;
+        padding-bottom: 32px;
+    }
+    .instacam-item-main {
+        padding: 11px 0;
+    }
+    .instacam-head-text p {
+        padding-bottom: 40px;
+    }
+    .video-play-button {
+        top: 100%;
+        left: 50%;
+    }
+    .about-img {
+        margin-top: -79px;
+    }
+    .product-head-text p {
+        padding: 0 0px;
+    }
+   
+}
+
+
+
+@media (max-width: 575.99px) {
+    /* =======navbar responsive start========== */
+    .navbar-nav {
+        background-color:#13cccca2;
+        text-align: center;
+    }
+    .navbar-nav .nav-item:hover .nav-link::after {
+        width: 20%;
+        height: 2px;
+    }
+    .navbar-nav .nav-item .nav-link::after {
+        top: 0px;
+    }
+    /* =======navbar responsive end========== */
+
+    /* =======banner responsive start========== */
+    #banner {
+        padding-top: 100px;
+    }
+    .banner-img {
+        top: 223px;
+        left: 103px;
+    }
+    .banner-left h1 {
+        font-size: 25px;
+    }
+    .banner-left h2 {
+        font-size: 20px;
+    }
+    .banner-left-btn {
+        padding-top: 30px;
+    }
+    .banner-left-btn a {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+      /* =======banner responsive end========== */
+
+      /* =======instacam responsive start========== */
+      #instacam {
+        padding-top: 60px;
+        padding-bottom: 14px;
+    }
+    .about-img {
+        position: static; 
+        margin-top: -38px;
+    }
+    .instacam-head-text h3 {
+        font-size: 20px;
+        padding-bottom: 3px;
+    }
+    .instacam-head-text p {
+        padding-bottom: 8px;
+    }
+    .instacam-item h5 {
+        padding-top: 19px;
+        padding-bottom: 2px;
+        font-size: 16px;
+    }
+    .instacam-img-icon2 {
+        margin-top: -2px;
+        margin-left: 196px;
+    }
+    .instacam-img-icon1 {
+        margin-top: -43px;
+        margin-left: 59px;
+    }
+    .instacam-img-icon3 {
+        margin-top: -137px;
+        margin-left: 222px;
+    }
+    .instacam-img-icon4 {
+        margin-top: -218px;
+        margin-left: 104px;
+    }
+    .instacam-item-main {
+        padding: 3px 0;
+    }
+    .instacam-item-main.after::after {
+        left: 0%;
+        display: none;
+    }
+    .instacam-item-main.after::before {
+        right: 0px;
+        display: none;
+    }
+    .about-content h3 {
+        font-size: 22px;
+        padding-right: 0px;
+        line-height: 28px;
+        padding-bottom: 4px;
+    }
+    .about-content p {
+        line-height: 22px;
+    }
+    .about-content span {
+        line-height: 20px;
+    }
+    #about {
+        padding-top: 16px;
+        padding-bottom: 38px;
+    }
+    #questions {
+        padding-top: 53px;
+        padding-bottom: 36px;
+    }
+    .row > * {
+        padding-right: calc(var(--bs-gutter-x) * .0);
+        padding-left: calc(var(--bs-gutter-x) * .0);
+    }
+    .questions-head h4 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .questions-right-text h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .form {
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+    .questions-right-text p {
+        padding-top: 11px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    form input {
+        margin-bottom: 14px;
+        padding: 5px 27px;
+    }
+    form button {
+        padding: 5px 91px;
+        font-size: 16px;
+    }
+    .camera-head {
+        margin-left:0px;
+    }
+    .camera-head h4 {
+        font-size: 15px;
+    }
+    .camera-head p {
+        padding-right: 0px;
+    }
+    .camera-left-img img {
+        height: 271px;
+        margin-left: -11px;
+    }
+    .video-play-button {
+        top: 100%;
+        left: 44%;
+        padding: 3px 11px 9px 13px;
+    }
+    #product {
+        padding-top: 0px;
+    }
+    .row > * {
+        padding-right: calc(var(--bs-gutter-x) * 1);
+    }
+    .product-head-text h4 {
+        font-size: 18px;
+    }
+    .product-head-text p {
+        line-height: 21px;
+        padding: 0px 0px;
+    }
+    .product-head-text {
+        padding-bottom: 0px;
+    }
+    .product-right {
+        padding-top: 6px;
+    }
+    .row > * {
+        margin-top: 20px;
+    }
+    .product-specification {
+        padding-right: 14px;
+        padding-left: 22px;
+    }
+    .product-specification h6 {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+    .product-list {
+        padding-top: 13px;
+    }
+    .list-left {
+        margin-left: 0px;
+    }
+    .list-right {
+        margin-right: 60px;
+    }
+    .btn {
+        padding-top: 8px;
+        margin-left: 7px;
+    }
+    .product-specification .btn button {
+        padding: 6px 13px;
+        font-size: 14px;
+    }
+    #testimonial {
+        padding-top: 23px;
+        padding-bottom: 0px;
+    }
+    element {
+        width: 0;
+    }
+    .testimonial-item-text p {
+        padding: 0 0px;;
+        line-height: 17px;
+    }
+    #news {
+        padding-top: 19px;
+        padding-bottom: 50px;
+    }
+    .product-head-text p {
+        line-height: 18px;
+    }
+    .row > * {
+        margin-top: 0px;
+    }
+    .fo-text p {
+        line-height: 16px;
+        margin-top: 0px;
+    }
+    .text-icon {
+        margin-left: 9px;
+    }
+    .follo h2 {
+        padding-top: 14px;
+    }
+    footer::after {
+        bottom: 38px;
+    }
+      /* ======= responsive end========== */
+
+}
